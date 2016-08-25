@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "138092632351",
+    "firebase_url": "https://fir-bcc4c.firebaseio.com",
+    "project_id": "fir-bcc4c",
+    "storage_bucket": "fir-bcc4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138092632351:android:eeedb2cc23161a1c",
+        "android_client_info": {
+          "package_name": "com.example.draldo.simplefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138092632351-3vb99pdt6c7oknujsiisi6q4bmvaf3it.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8ExWiQeiqWQEzZ_KW13v-XHN8V0WJxM8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
